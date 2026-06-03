@@ -59,13 +59,6 @@ Hi, I'm **Thuan** — a **Senior AI / Software Engineer** with **7+ years** buil
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
-### 📌 Featured Projects
-
-- **[agent-pro-max](https://github.com/lethuan127/agent-pro-max)** — open-source framework for building AI agents with reusable skills, configurable rules, and extensible workflows
-- **[MCP-Markdown-RAG](https://github.com/lethuan127/MCP-Markdown-RAG)** — semantic search engine for markdown files, built on the MCP architecture
-- **[CentrAI-Chat](https://github.com/lethuan127/CentrAI-Chat)** — centralized AI conversation platform unifying agents and workflows
-- **[nestjs-blueprint-all-in-one](https://github.com/lethuan127/nestjs-blueprint-all-in-one)** — production-ready NestJS project structure
-
 ### 📊 GitHub Overview
 
 <div align="center">
