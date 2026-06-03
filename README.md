@@ -62,12 +62,7 @@ Hi, I'm **Thuan** — a **Senior AI / Software Engineer** with **7+ years** buil
 ### 📊 GitHub Overview
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lethuan127&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
   <img height="170" src="https://streak-stats.demolab.com/?user=lethuan127&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethuan127&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
